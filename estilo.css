@@ -20,10 +20,10 @@ hr{
 header{
 }
 #logo-git{
-    height: 20%; 
-    width: 20%;
+    height: 40%; 
+    width: 40%;
     position: absolute;
-    top: 150px;
+    top: 50px;
     right: 50px;
     opacity: 0.5;
 }

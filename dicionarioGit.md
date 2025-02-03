@@ -13,4 +13,7 @@ push    = empurrar<br>
 pull    = puxar<br>
 request = solicitar<br>
 is available = está disponível<br>
-
+checkout = confere<br>
+tracked = astreado
+untracked = não rastreado
+ 
