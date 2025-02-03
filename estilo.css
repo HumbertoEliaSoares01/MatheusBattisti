@@ -1,0 +1,29 @@
+html{
+    margin: 0px;
+    background-color: #a52a2a;
+}
+body{
+    color: #a52a2a;
+    background-color: #f5deb3;
+    text-align: center;
+    margin: 20px 100px;
+    padding: 25px;
+    font-size: 1.5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 20px;
+}
+hr{
+    border-color: #a52a2a;
+    border-width: 2px;
+    width: 500px;
+}
+header{
+}
+#logo-git{
+    height: 20%; 
+    width: 20%;
+    position: absolute;
+    top: 150px;
+    right: 50px;
+    opacity: 0.5;
+}
