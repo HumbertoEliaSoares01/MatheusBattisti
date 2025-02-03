@@ -1,15 +1,16 @@
 # tradução dos comandos do Git
-git     idiota
-init    iniciar
-add     adicionar
-commit  comprometer-se
-status  status
-master  mestre
-branch  filial
-origin  origem
-log     registro
-merge   mesclar
-push    empurrar
-pull    puxar
-request solicitar
+git     = idiota<br>
+init    = iniciar<br>
+add     = adicionar<br>
+commit  = comprometer-se<br>
+status  = status<br>
+master  = mestre<br>
+branch  = filial<br>
+origin  = origem<br>
+log     = registro<br>
+merge   = mesclar<br>
+push    = empurrar<br>
+pull    = puxar<br>
+request = solicitar<br>
+is available = está disponível<br>
 
